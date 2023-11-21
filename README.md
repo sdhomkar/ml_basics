@@ -2,9 +2,7 @@
 
 Siddharth Dhomkar, Department of Physics, IIT Madras
 
-The purpose of this project is to provide a brief overview of machine learning strategies to solve relevant problems in physics. For novices, Python_basics1 and Python_basics2 contain useful information pertaining to the basics of programming, whereas  
-
-
+The purpose of this project is to provide a brief overview of machine learning strategies to solve relevant problems in physics. For novices, Python_basics1 and Python_basics2 contain useful information pertaining to the basics of programming, whereas, ML_basics notebook is the main notebook that discusses an example problem of denoising via various methodologies.
 
 The notebook allows the user to perform the following tasks:
 1. Generate dummy training data
