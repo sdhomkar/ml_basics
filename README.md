@@ -19,7 +19,7 @@ The training histories have been stored as .csv files and entire pre-trained net
 
 Following is a brief explanation of the problem:
 
-## Employing artificial neural networks for denoising noisy decoherence curves:
+### Employing artificial neural networks for denoising noisy decoherence curves:
 
 **Based on**:
 
