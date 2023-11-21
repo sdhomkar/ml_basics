@@ -2,6 +2,10 @@
 
 Siddharth Dhomkar, Department of Physics, IIT Madras
 
+The purpose of this project is to provide a brief overview of machine learning strategies to solve relevant problems in physics. The 
+
+
+
 The notebook allows the user to perform the following tasks:
 1. Generate dummy training data
 2. Split the data into training and testing tests
