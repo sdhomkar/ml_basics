@@ -28,7 +28,7 @@ The training histories have been stored as .csv files and entire pre-trained net
 * D.F. Wise, J.J.L. Morton, and S. Dhomkar, “Using deep learning to understand and mitigate the qubit noise environment”, PRX Quantum 2, 010316 (2021)
 https://doi.org/10.1103/PRXQuantum.2.010316
 
-* Fernando Meneses, David F. Wise, Daniela Pagliero, Pablo R. Zangara, Siddharth Dhomkar, and Carlos A. Meriles, "Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise", Physical Review Applied 18, 024004 (2022)
+* F. Meneses, D. F. Wise, D. Pagliero, P. R. Zangara, S. Dhomkar, and C. A. Meriles, "Toward Deep-Learning-Assisted Spectrally Resolved Imaging of Magnetic Noise", Physical Review Applied 18, 024004 (2022)
 http://dx.doi.org/10.1103/PhysRevApplied.18.024004
 
 
