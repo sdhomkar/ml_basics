@@ -19,7 +19,7 @@ The training and test data have been stored in .npz format. Arrays containing tr
 ## Training histories and trained networks
 The training histories have been stored as .csv files and entire pre-trained networks have also been saved.
 
-## The problem under investigation
+## The problem being investigated
 
 ### Employing artificial neural networks for denoising noisy decoherence curves:
 
