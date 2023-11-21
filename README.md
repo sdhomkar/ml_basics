@@ -2,7 +2,7 @@
 
 Siddharth Dhomkar, Department of Physics, IIT Madras
 
-The purpose of this project is to provide a brief overview of machine learning strategies to solve relevant problems in physics. The 
+The purpose of this project is to provide a brief overview of machine learning strategies to solve relevant problems in physics. For novices, Python_basics1 and Python_basics2 contain useful information pertaining to the basics of programming, whereas  
 
 
 
