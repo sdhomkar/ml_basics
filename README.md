@@ -1,4 +1,4 @@
-# ml_basics
+# Hands-on Machine Learning 
 Notebook pertaining to basics of ML
 
 The notebook allows the user to perform the following tasks:
